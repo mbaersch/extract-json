@@ -2,7 +2,7 @@
 Extract element from JSON object or valid JSON string by path using dot-notation (Custom Variable Template for Server-Side Google Tag Manager)
 
 ## using the variable template
-Create a new variable with this template. Choose a variable as input that holds an array or JSON object like "items" from event data or an extracted JSON string from a request parameter. Then define a path to the desired element / property usinf dot-notation.
+Create a new variable with this template. Choose a variable as input that holds an array or JSON object like "items" from event data or an extracted JSON string from a request parameter. Then define a path to the desired element / property using dot-notation.
 
 The variable will parse the input (if neccessary) and query the defined path. returns the value of the element. If the result is an object, if can be stringified. 
 
