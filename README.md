@@ -1,4 +1,4 @@
-# Extract JSON
+# Extract From JSON (ssGTM)
 
 **Custom Variable Template for Server-Side Google Tag Manager**
 
