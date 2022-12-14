@@ -1,5 +1,12 @@
-# extract-json
-Extract element from JSON object or valid JSON string by path using dot-notation (Custom Variable Template for Server-Side Google Tag Manager)
+# Extract JSON
+
+**Custom Variable Template for Server-Side Google Tag Manager**
+
+Extract element from JSON object or valid JSON string by path using dot-notation 
+
+[![Template Status](https://img.shields.io/badge/Community%20Template%20Gallery%20Status-published-green)](https://tagmanager.google.com/gallery/#/owners/mbaersch/templates/extract-json) ![Repo Size](https://img.shields.io/github/repo-size/mbaersch/extract-json) ![License](https://img.shields.io/github/license/mbaersch/extract-json)
+
+---
 
 ## using the variable template
 Create a new variable with this template. Choose a variable as input that holds an array or JSON object like "items" from event data or an extracted JSON string from a request parameter. Then define a path to the desired element / property using dot-notation.
