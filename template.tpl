@@ -83,7 +83,7 @@ var res = path.split('.').reduce(function(o, k) {
   } else return o && o[k];
 }, obj);
 
-if ((typeof(res) === "string") && data.stringify) res = JSON.stringify(res);
+if ((typeof(res) === "object") && data.stringify) res = JSON.stringify(res);
 
 return res;
 
