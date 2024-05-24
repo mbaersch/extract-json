@@ -1,6 +1,10 @@
 
 homepage: "https://www.markus-baersch.de"
+documentation: "https://github.com/mbaersch/extract-json#readme"
 versions:
   # Latest version
+  - sha: 120e1c6b615dd62a95c5a5416b420184298f623c
+    changeNotes: fix for stringify option
+  # Older versions
   - sha: 318edcf0ae8017b3e8c4c3d0ec20201942ac0a8b
     changeNotes: Initial release.
